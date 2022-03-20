@@ -1,0 +1,12 @@
+[package]
+name = "demo_project"
+version = "0.1.0"
+authors = ["Dalton Richardson <dalton.richardson@bettercloud.com>"]
+edition = "2018"
+
+[dependencies]
+regex = "1"
+lazy_static = "1.4.0"
+async-trait = "0.1.42"
+futures = "0.3"
+rand = "0.7"
